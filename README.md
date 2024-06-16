@@ -2,7 +2,7 @@
 
 ###
 
-<p align="center">A pasionate Full Stack Developer y<br>Desarrollador Móvil 🧑‍💻 from Perú<br><br>- 🔭 I am currently working as a freelancer</p>
+<p align="center">A pasionate Soporte Técnico, Full Stack Developer y<br>Desarrollador Móvil 🧑‍💻 from Perú<br><br>- 🔭 I am currently working as a freelancer</p>
 
 ###
 
